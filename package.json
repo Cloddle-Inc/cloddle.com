@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  },
+  "name": "cloddle.com",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "İlter",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;   
+}
+
+.header {
+    font-family: 'Sora', sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+.header3 {
+    font-family: 'Sora', sans-serif;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 10px;
+}
+
+.email {
+    font-family: 'Sora', sans-serif;
+    color: white;
+    font-size: 18px;
+}
